@@ -1,43 +1,24 @@
-# Responsive Devices : https://asif-hossain-7.github.io/responsive-devices/
-
-/* xxl - Extra Large Device */
-
+# Responsive Devices :
+/* 2X EXTRA LARGE DEVICES - xxl ( Extra Large Desktops, 1400px and up) */
 @media (min-width: 1400px) {
-  /* CSS */
 }
 
-
-/* xl - Extra Large Device : Desktops */
-
-@media (min-width: 1200px) {
-  /* CSS */
+/* EXTRA LARGE DEVICES - xl (Large Desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
 }
 
-
-/* lg - Large Device : Laptops */
-
-@media (min-width: 992px) and (max-width: 1024px) {
- /* CSS */
+/* LARGE DEVICES - lg (Desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
 }
 
-
-/* md -  Medium Device : Tablets*/
-
-@media (min-width: 768px) and (max-width: 991px) {
-  /* CSS */
+/* MEDIUM DEVICES - md (Tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
 }
 
-
-/* sm - Small Device */
-
-@media (min-width: 576px) and (max-width: 767px) {
- /* CSS */
+/* SMALL DEVICES - sm (Landscape Phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
 }
 
-
-/* Mobiles (Portrait and Landscape) */
-
-@media (min-width: 320px) and (max-width: 480px) {
- 
+/* EXTRA SMALL DEVICES (Portrait Phones, less than 576px) */
+@media (max-width: 575.98px) {
 }
-
