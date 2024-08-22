@@ -1,4 +1,4 @@
-# Responsive Screen Size :
+# Responsive Devices :
 
 /* xxl - Extra Large Device */
 
