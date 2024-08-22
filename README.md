@@ -1,4 +1,4 @@
-# Responsive Devices :
+# Responsive Devices : https://asif-hossain-7.github.io/responsive-devices/
 
 /* xxl - Extra Large Device */
 
