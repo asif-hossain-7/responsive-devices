@@ -1,4 +1,5 @@
-# Responsive Screen Size : 
+# Responsive Screen Size :
+
 /* xxl - Extra Large Device */
 @media (min-width: 1400px) {
   /* CSS */
