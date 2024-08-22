@@ -1,4 +1,3 @@
-# Responsive Devices :
 /* 2X EXTRA LARGE DEVICES - xxl ( Extra Large Desktops, 1400px and up) */
 @media (min-width: 1400px) {
 }
