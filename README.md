@@ -1,4 +1,4 @@
-/* 2X EXTRA LARGE DEVICES - xxl ( Extra Large Desktops, 1400px and up) */
+/* 2X EXTRA LARGE DEVICES - xxl (Extra Large Desktops, 1400px and up) */
 @media (min-width: 1400px) {
 }
 
@@ -18,6 +18,6 @@
 @media (min-width: 576px) and (max-width: 767.98px) {
 }
 
-/* EXTRA SMALL DEVICES (Portrait Phones, less than 576px) */
-@media (max-width: 575.98px) {
+/* EXTRA SMALL DEVICES (Portrait Phones, 320px and up) */
+@media (min-width: 320px) and (max-width: 575.98px) {
 }
